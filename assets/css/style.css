@@ -1,0 +1,23 @@
+.anchor{
+    text-decoration: none;
+}
+
+.social{
+    display: inline;
+}
+
+.fb-icon{
+color: #3b5998;
+}
+.insta-icon{
+    color: #E4405F;
+}
+.twit-icon{
+   color: #00acee
+}
+.wp-icon{
+   color: #25D366
+}
+.link-icon{
+    color: #0077B5;
+}
